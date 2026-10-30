@@ -1,0 +1,351 @@
+student_id,student_name,department,semester,attendance_rate,study_hours_weekly,assignment_completion_rate,midterm_score,quiz_average,previous_gpa,current_gpa
+STU-1001,Zack Rodriguez,Computer Science,Sem 7,98.6,27.2,100.0,99.0,96.9,3.74,3.95
+STU-1002,Lucas Santos,Data Science & AI,Sem 3,42.0,3.0,46.1,40.5,42.0,1.6,1.58
+STU-1003,Chloe Johansson,Mechanical Engineering,Sem 6,82.5,20.5,92.4,99.0,93.6,3.74,3.75
+STU-1004,Liam Nguyen,Mechanical Engineering,Sem 6,93.5,24.6,90.9,97.7,91.2,3.74,3.86
+STU-1005,Fatima Chen,Data Science & AI,Sem 3,81.7,4.9,61.9,59.1,63.6,1.8,2.06
+STU-1006,Zack Santos,Data Science & AI,Sem 7,66.5,15.1,63.3,87.0,79.1,3.1,3.1
+STU-1007,Carlos Kim,Computer Science,Sem 3,60.9,7.7,58.5,64.0,62.6,2.14,2.26
+STU-1008,Liam Rodriguez,Computer Science,Sem 8,88.0,26.1,82.8,99.0,89.1,3.29,3.55
+STU-1009,Chloe Kim,Biotechnology,Sem 2,79.6,25.0,86.8,90.0,93.3,3.16,3.15
+STU-1010,Marcus Kowalski,Business Analytics,Sem 8,99.5,13.2,100.0,88.1,96.5,4.0,3.69
+STU-1011,Liam Vance,Data Science & AI,Sem 4,91.7,12.1,71.6,81.0,77.1,2.87,2.96
+STU-1012,Chloe Gupta,Biotechnology,Sem 7,94.4,21.1,76.6,99.0,98.6,4.0,3.76
+STU-1013,Noah Kowalski,Electrical Engineering,Sem 7,76.6,17.2,83.7,73.8,76.2,3.71,3.18
+STU-1014,Elena Gupta,Mechanical Engineering,Sem 5,99.5,22.1,100.0,99.0,99.0,3.76,4.0
+STU-1015,Liam Patel,Mechanical Engineering,Sem 1,79.7,15.1,78.2,77.3,69.5,3.03,3.03
+STU-1016,Maya Dubois,Computer Science,Sem 4,80.8,20.8,72.3,67.3,70.6,3.04,2.51
+STU-1017,Sophia Johansson,Computer Science,Sem 6,94.5,20.2,96.1,99.0,96.8,3.81,3.84
+STU-1018,Maya Al-Mansoor,Mechanical Engineering,Sem 7,80.1,20.4,67.0,80.1,76.9,2.96,2.95
+STU-1019,Aarav Santos,Mechanical Engineering,Sem 3,62.4,10.1,59.4,65.0,63.9,1.93,2.35
+STU-1020,Carlos Dubois,Computer Science,Sem 4,75.3,13.6,66.1,52.0,56.9,2.14,2.27
+STU-1021,Devon Gupta,Biotechnology,Sem 5,72.3,20.0,65.0,77.6,76.9,3.28,3.14
+STU-1022,Maya Chen,Business Analytics,Sem 6,82.2,23.0,86.6,99.0,92.5,4.0,4.0
+STU-1023,Maya Nguyen,Computer Science,Sem 1,72.8,17.0,81.9,89.2,89.9,3.58,3.63
+STU-1024,Priya Al-Mansoor,Biotechnology,Sem 1,99.5,33.9,99.8,99.0,99.0,3.58,4.0
+STU-1025,Marcus Sharma,Biotechnology,Sem 5,99.5,26.4,96.1,99.0,91.1,3.65,4.0
+STU-1026,Marcus Nguyen,Biotechnology,Sem 5,81.1,14.1,77.4,74.3,71.3,3.04,3.05
+STU-1027,Liam Al-Mansoor,Computer Science,Sem 3,94.5,24.2,99.7,99.0,95.5,4.0,3.89
+STU-1028,Zack Vance,Electrical Engineering,Sem 7,77.8,6.7,73.1,69.8,65.3,2.65,2.49
+STU-1029,Priya Al-Mansoor,Mechanical Engineering,Sem 1,62.5,4.6,55.0,44.2,45.1,1.56,1.44
+STU-1030,Maya Vance,Electrical Engineering,Sem 6,58.4,12.3,67.5,70.0,74.4,2.83,2.5
+STU-1031,Fatima Al-Mansoor,Biotechnology,Sem 4,84.5,14.3,77.9,87.0,91.5,2.94,3.12
+STU-1032,Fatima Sharma,Electrical Engineering,Sem 6,63.2,16.0,76.2,75.8,76.5,2.92,2.92
+STU-1033,Elena Rodriguez,Business Analytics,Sem 2,83.1,20.1,91.6,95.1,92.4,3.4,3.53
+STU-1034,Maya Gupta,Business Analytics,Sem 2,82.3,17.5,76.1,69.0,75.1,2.55,2.62
+STU-1035,Zack Gupta,Business Analytics,Sem 5,91.7,18.0,84.0,99.0,82.7,3.37,3.62
+STU-1036,Lucas Kim,Data Science & AI,Sem 3,89.3,19.7,87.8,93.7,86.7,3.46,3.55
+STU-1037,Yuki Chen,Computer Science,Sem 2,75.5,21.3,80.1,73.1,63.6,2.76,2.77
+STU-1038,Noah Patel,Data Science & AI,Sem 1,81.4,16.8,86.2,87.0,81.4,3.42,3.51
+STU-1039,Priya Vance,Business Analytics,Sem 6,61.7,9.9,51.6,60.3,53.9,2.03,2.07
+STU-1040,Chloe Rodriguez,Computer Science,Sem 6,78.6,21.1,81.7,87.6,93.2,3.74,3.64
+STU-1041,Elena Kowalski,Mechanical Engineering,Sem 5,72.4,10.5,57.3,58.9,44.6,2.18,1.87
+STU-1042,Sophia Dubois,Computer Science,Sem 7,77.8,13.3,85.8,85.5,83.5,3.87,3.54
+STU-1043,Priya Kowalski,Mechanical Engineering,Sem 7,85.0,16.5,84.7,68.4,76.4,3.11,2.92
+STU-1044,Lucas Vance,Business Analytics,Sem 4,85.9,21.2,83.1,78.0,81.6,2.81,3.12
+STU-1045,Fatima Gupta,Business Analytics,Sem 5,76.6,14.4,70.5,65.4,74.2,2.71,2.8
+STU-1046,Elena Dubois,Computer Science,Sem 8,99.5,22.7,100.0,99.0,99.0,3.77,3.84
+STU-1047,Noah Rodriguez,Biotechnology,Sem 4,68.6,12.0,70.5,64.3,68.0,2.62,2.78
+STU-1048,Noah Kim,Mechanical Engineering,Sem 8,72.0,12.4,66.9,59.8,52.7,2.17,2.08
+STU-1049,Noah Nguyen,Data Science & AI,Sem 7,99.5,22.9,92.2,99.0,92.0,3.18,3.58
+STU-1050,Maya Al-Mansoor,Electrical Engineering,Sem 5,85.7,14.9,71.9,80.6,69.1,3.33,2.91
+STU-1051,Noah Kim,Mechanical Engineering,Sem 8,63.6,12.3,74.4,62.3,68.8,2.74,2.44
+STU-1052,Liam Johansson,Data Science & AI,Sem 5,99.5,26.7,100.0,99.0,99.0,4.0,4.0
+STU-1053,Elena Sharma,Electrical Engineering,Sem 5,78.6,15.8,87.6,99.0,97.1,3.68,3.7
+STU-1054,Chloe Dubois,Computer Science,Sem 7,80.6,17.3,76.6,72.1,69.0,3.07,2.76
+STU-1055,Chen Gupta,Data Science & AI,Sem 4,79.8,20.1,87.2,90.7,84.8,3.39,3.22
+STU-1056,Maya Gupta,Data Science & AI,Sem 4,99.5,28.1,94.5,99.0,98.7,4.0,4.0
+STU-1057,Lucas Al-Mansoor,Data Science & AI,Sem 5,82.7,25.6,96.3,85.2,85.2,3.34,3.35
+STU-1058,Lucas Johansson,Data Science & AI,Sem 2,90.6,26.2,85.8,99.0,89.9,4.0,3.75
+STU-1059,Aarav Al-Mansoor,Mechanical Engineering,Sem 3,96.6,22.8,91.7,92.5,89.7,3.83,3.54
+STU-1060,Zack Al-Mansoor,Electrical Engineering,Sem 7,94.2,11.8,90.1,91.2,87.6,3.35,3.22
+STU-1061,Chloe Patel,Electrical Engineering,Sem 3,79.6,21.0,78.8,93.9,85.0,3.71,3.4
+STU-1062,Maya Kim,Business Analytics,Sem 3,85.5,16.4,93.4,69.9,70.8,2.85,2.95
+STU-1063,Chloe Santos,Electrical Engineering,Sem 4,88.2,18.6,79.1,85.5,85.8,3.08,3.37
+STU-1064,Marcus Patel,Electrical Engineering,Sem 4,84.6,20.9,84.2,84.1,91.9,3.68,3.6
+STU-1065,Chloe Chen,Computer Science,Sem 2,66.9,17.7,82.9,54.4,62.8,2.67,2.68
+STU-1066,Marcus Patel,Data Science & AI,Sem 3,74.9,21.1,83.9,81.8,83.5,3.28,3.33
+STU-1067,Carlos Sharma,Mechanical Engineering,Sem 3,67.5,17.0,82.3,74.7,79.7,3.34,3.04
+STU-1068,Fatima Nguyen,Computer Science,Sem 5,89.3,18.5,80.0,86.0,86.0,3.09,3.05
+STU-1069,Fatima Al-Mansoor,Mechanical Engineering,Sem 4,76.9,10.7,66.1,57.0,55.5,2.2,2.13
+STU-1070,Maya Nguyen,Data Science & AI,Sem 3,99.5,15.6,100.0,99.0,99.0,3.92,4.0
+STU-1071,Chen Kim,Business Analytics,Sem 6,58.5,11.2,64.9,59.6,57.4,2.35,2.13
+STU-1072,Maya Vance,Biotechnology,Sem 2,83.9,10.4,73.4,81.6,82.4,3.31,3.13
+STU-1073,Aarav Nguyen,Mechanical Engineering,Sem 8,87.3,16.7,73.8,60.5,67.1,2.82,2.6
+STU-1074,Zack Kim,Data Science & AI,Sem 6,93.9,21.6,83.6,99.0,84.6,3.29,3.41
+STU-1075,Liam Chen,Computer Science,Sem 6,63.0,13.2,72.4,82.9,78.0,3.19,2.86
+STU-1076,Maya Kim,Biotechnology,Sem 8,82.7,9.8,71.1,59.9,63.5,2.77,2.31
+STU-1077,Sophia Santos,Biotechnology,Sem 7,86.9,17.7,93.2,82.4,86.3,3.5,3.29
+STU-1078,Marcus Patel,Data Science & AI,Sem 7,86.3,18.3,85.9,98.8,96.4,3.28,3.48
+STU-1079,Marcus Sharma,Electrical Engineering,Sem 2,82.5,9.9,76.3,73.1,77.8,2.51,2.71
+STU-1080,Yuki Chen,Computer Science,Sem 6,66.0,6.0,66.8,52.7,56.9,1.77,1.86
+STU-1081,Aarav Sharma,Computer Science,Sem 3,99.5,27.1,100.0,99.0,99.0,3.86,4.0
+STU-1082,Fatima Nguyen,Computer Science,Sem 4,94.7,22.0,88.2,88.9,88.5,3.7,3.72
+STU-1083,Yuki Nguyen,Data Science & AI,Sem 2,71.6,7.5,64.5,66.3,60.7,2.32,2.16
+STU-1084,Carlos Al-Mansoor,Biotechnology,Sem 5,94.5,24.3,88.7,99.0,96.1,3.92,3.85
+STU-1085,Yuki Dubois,Electrical Engineering,Sem 8,72.1,14.7,70.2,61.5,67.9,2.6,2.55
+STU-1086,Fatima Gupta,Data Science & AI,Sem 6,99.1,25.7,100.0,99.0,99.0,3.68,3.74
+STU-1087,Lucas Chen,Electrical Engineering,Sem 2,79.7,16.3,75.5,90.6,88.8,3.33,3.35
+STU-1088,Yuki Nguyen,Biotechnology,Sem 1,78.7,18.4,81.2,95.4,97.8,4.0,4.0
+STU-1089,Aarav Rodriguez,Biotechnology,Sem 1,66.4,12.0,68.3,48.2,56.3,1.58,2.08
+STU-1090,Lucas Rodriguez,Computer Science,Sem 7,51.9,15.8,55.6,49.8,55.9,1.79,1.79
+STU-1091,Noah Sharma,Data Science & AI,Sem 8,99.3,18.7,90.5,93.3,97.1,3.69,3.62
+STU-1092,Zack Nguyen,Computer Science,Sem 4,90.0,19.1,82.9,90.2,86.9,3.29,3.09
+STU-1093,Lucas Santos,Data Science & AI,Sem 3,99.5,30.5,98.8,99.0,99.0,3.75,4.0
+STU-1094,Lucas Rodriguez,Computer Science,Sem 4,85.5,21.8,82.9,75.9,73.3,2.96,3.23
+STU-1095,Lucas Nguyen,Electrical Engineering,Sem 4,87.9,17.1,83.1,99.0,96.0,3.72,3.57
+STU-1096,Carlos Chen,Data Science & AI,Sem 4,96.0,29.8,82.5,96.2,95.0,2.84,3.32
+STU-1097,Sophia Gupta,Computer Science,Sem 8,81.8,17.4,81.5,99.0,99.0,3.94,3.61
+STU-1098,Elena Dubois,Data Science & AI,Sem 4,88.8,13.8,76.1,72.3,77.5,3.03,2.97
+STU-1099,Lucas Al-Mansoor,Data Science & AI,Sem 5,68.4,7.0,63.5,58.8,65.5,2.56,2.17
+STU-1100,Liam Kowalski,Data Science & AI,Sem 8,46.4,7.3,52.7,36.3,40.7,1.0,1.2
+STU-1101,Maya Gupta,Mechanical Engineering,Sem 5,72.4,11.5,74.6,76.7,74.3,2.74,2.85
+STU-1102,Maya Gupta,Computer Science,Sem 8,65.1,9.4,52.3,47.6,47.6,1.05,1.65
+STU-1103,Priya Santos,Data Science & AI,Sem 7,99.5,31.5,100.0,99.0,99.0,3.56,3.76
+STU-1104,Devon Dubois,Data Science & AI,Sem 2,89.9,15.5,67.9,82.0,68.7,2.69,2.74
+STU-1105,Zack Gupta,Mechanical Engineering,Sem 1,76.9,9.0,65.4,59.7,68.1,1.75,2.24
+STU-1106,Chen Nguyen,Data Science & AI,Sem 4,66.2,12.6,62.5,61.7,62.2,2.03,2.13
+STU-1107,Noah Patel,Computer Science,Sem 7,94.5,16.5,75.7,66.2,67.0,1.91,2.41
+STU-1108,Aarav Al-Mansoor,Computer Science,Sem 2,80.2,8.4,77.9,71.7,60.9,2.7,2.76
+STU-1109,Carlos Al-Mansoor,Biotechnology,Sem 1,99.2,19.4,98.7,99.0,98.7,4.0,3.85
+STU-1110,Priya Johansson,Data Science & AI,Sem 6,78.3,16.8,86.8,76.9,78.9,2.78,2.79
+STU-1111,Chen Chen,Mechanical Engineering,Sem 3,82.1,19.4,72.3,64.2,62.1,2.86,2.45
+STU-1112,Zack Kowalski,Biotechnology,Sem 5,78.2,18.8,77.4,91.1,83.6,3.6,3.4
+STU-1113,Chloe Santos,Computer Science,Sem 6,88.5,21.4,80.0,99.0,93.2,3.83,3.49
+STU-1114,Chen Sharma,Business Analytics,Sem 8,84.7,13.9,73.6,67.4,66.3,2.28,2.47
+STU-1115,Aarav Chen,Mechanical Engineering,Sem 1,82.9,21.4,84.7,88.2,90.0,3.13,3.33
+STU-1116,Fatima Gupta,Computer Science,Sem 6,99.5,20.6,94.8,94.0,90.5,3.72,3.63
+STU-1117,Chloe Santos,Data Science & AI,Sem 3,91.2,25.0,82.2,99.0,94.7,3.43,3.82
+STU-1118,Sophia Kim,Electrical Engineering,Sem 7,72.9,21.4,79.7,72.8,80.8,3.04,2.92
+STU-1119,Chen Rodriguez,Mechanical Engineering,Sem 1,64.7,12.9,57.9,52.5,53.9,1.92,2.0
+STU-1120,Aarav Patel,Biotechnology,Sem 6,76.2,15.4,69.6,76.0,75.9,2.97,2.64
+STU-1121,Fatima Rodriguez,Data Science & AI,Sem 5,82.4,17.2,84.0,79.9,82.6,3.27,3.1
+STU-1122,Maya Nguyen,Electrical Engineering,Sem 5,72.7,10.5,54.1,46.5,48.8,2.06,1.79
+STU-1123,Elena Chen,Data Science & AI,Sem 2,81.3,17.4,87.4,87.2,86.9,3.09,3.28
+STU-1124,Aarav Sharma,Business Analytics,Sem 6,82.6,8.1,80.0,78.8,76.3,3.4,3.14
+STU-1125,Aarav Kim,Mechanical Engineering,Sem 4,96.3,4.4,67.9,60.6,63.5,2.57,2.21
+STU-1126,Aarav Santos,Computer Science,Sem 6,76.3,9.5,62.0,77.6,71.5,2.59,2.6
+STU-1127,Aarav Vance,Computer Science,Sem 7,79.3,14.2,57.0,76.4,78.3,2.72,2.9
+STU-1128,Elena Gupta,Computer Science,Sem 1,94.1,20.3,77.2,85.6,87.1,2.99,3.17
+STU-1129,Sophia Nguyen,Computer Science,Sem 1,75.5,13.4,76.7,68.3,63.6,2.9,2.59
+STU-1130,Liam Patel,Computer Science,Sem 7,67.4,14.1,73.4,69.9,64.0,3.32,2.65
+STU-1131,Aarav Chen,Electrical Engineering,Sem 6,85.9,17.2,84.4,92.6,89.5,3.28,3.53
+STU-1132,Noah Vance,Mechanical Engineering,Sem 7,86.9,14.5,78.9,90.9,85.3,3.11,3.37
+STU-1133,Liam Gupta,Electrical Engineering,Sem 3,56.2,9.5,64.1,66.8,65.1,2.61,2.38
+STU-1134,Fatima Kowalski,Biotechnology,Sem 8,88.3,22.1,86.7,85.0,88.8,2.99,3.18
+STU-1135,Devon Nguyen,Mechanical Engineering,Sem 7,99.5,24.7,97.9,93.5,96.4,4.0,3.85
+STU-1136,Priya Nguyen,Electrical Engineering,Sem 5,78.3,14.5,83.9,94.4,92.8,3.58,3.46
+STU-1137,Carlos Kim,Electrical Engineering,Sem 7,66.1,3.2,63.2,48.2,59.9,2.06,2.07
+STU-1138,Carlos Patel,Data Science & AI,Sem 1,88.0,9.1,77.0,83.5,74.6,3.33,3.22
+STU-1139,Yuki Kowalski,Computer Science,Sem 5,65.8,4.9,64.2,61.7,63.0,2.1,2.0
+STU-1140,Chloe Sharma,Computer Science,Sem 1,99.5,34.7,100.0,99.0,96.4,3.96,4.0
+STU-1141,Priya Vance,Data Science & AI,Sem 2,99.5,27.9,97.4,99.0,99.0,3.43,3.87
+STU-1142,Sophia Kowalski,Data Science & AI,Sem 4,65.4,12.0,74.0,68.5,59.1,2.5,2.46
+STU-1143,Carlos Patel,Computer Science,Sem 1,54.4,5.3,65.5,53.6,46.3,2.15,1.76
+STU-1144,Chen Gupta,Business Analytics,Sem 5,67.1,9.7,68.9,56.8,62.0,1.85,2.25
+STU-1145,Carlos Kowalski,Electrical Engineering,Sem 2,77.6,7.3,79.8,67.7,77.0,2.56,2.8
+STU-1146,Devon Johansson,Computer Science,Sem 1,70.0,10.3,55.6,46.7,53.2,2.0,1.89
+STU-1147,Marcus Rodriguez,Data Science & AI,Sem 3,70.1,19.9,69.8,78.8,72.1,2.69,2.68
+STU-1148,Maya Santos,Computer Science,Sem 7,79.1,12.1,76.9,72.5,81.4,3.25,3.15
+STU-1149,Priya Chen,Mechanical Engineering,Sem 4,73.8,16.0,81.3,75.4,71.0,2.8,2.97
+STU-1150,Fatima Chen,Mechanical Engineering,Sem 1,77.1,16.2,78.4,74.0,81.9,3.26,2.97
+STU-1151,Yuki Chen,Business Analytics,Sem 2,74.3,12.6,71.2,70.0,64.9,2.53,2.52
+STU-1152,Priya Nguyen,Data Science & AI,Sem 3,63.1,18.5,64.7,78.2,72.4,2.84,2.67
+STU-1153,Priya Al-Mansoor,Business Analytics,Sem 6,85.6,20.9,73.1,92.9,90.2,3.4,3.32
+STU-1154,Aarav Kim,Biotechnology,Sem 2,64.2,11.3,77.4,63.8,60.5,2.52,2.48
+STU-1155,Devon Nguyen,Computer Science,Sem 7,93.7,22.7,94.4,99.0,99.0,4.0,3.86
+STU-1156,Elena Kim,Business Analytics,Sem 2,69.5,21.2,74.6,82.9,78.6,2.98,2.93
+STU-1157,Aarav Santos,Mechanical Engineering,Sem 3,94.3,27.0,100.0,99.0,99.0,3.69,3.99
+STU-1158,Maya Al-Mansoor,Mechanical Engineering,Sem 2,99.5,20.1,85.3,97.4,99.0,3.88,3.61
+STU-1159,Chen Vance,Data Science & AI,Sem 3,99.5,23.3,90.6,91.8,87.5,3.79,3.59
+STU-1160,Zack Dubois,Business Analytics,Sem 1,78.4,13.8,79.0,76.4,82.5,2.46,2.99
+STU-1161,Marcus Nguyen,Electrical Engineering,Sem 8,84.3,14.6,82.9,69.0,81.4,2.87,3.03
+STU-1162,Maya Dubois,Business Analytics,Sem 3,99.5,20.4,98.7,99.0,95.6,4.0,4.0
+STU-1163,Devon Al-Mansoor,Biotechnology,Sem 3,81.0,15.3,75.4,74.9,81.9,2.62,3.08
+STU-1164,Priya Gupta,Mechanical Engineering,Sem 4,83.6,18.2,77.9,99.0,83.9,3.73,3.49
+STU-1165,Aarav Vance,Biotechnology,Sem 3,72.1,11.4,64.9,70.0,70.4,2.56,2.6
+STU-1166,Aarav Gupta,Mechanical Engineering,Sem 3,83.4,14.0,81.9,65.5,64.3,2.89,2.55
+STU-1167,Liam Sharma,Electrical Engineering,Sem 6,76.2,12.0,61.9,72.4,74.0,2.69,2.69
+STU-1168,Devon Santos,Mechanical Engineering,Sem 8,84.6,19.9,69.5,65.5,71.0,2.46,2.64
+STU-1169,Zack Al-Mansoor,Computer Science,Sem 1,58.9,15.4,69.7,51.2,67.1,2.05,1.97
+STU-1170,Chen Chen,Electrical Engineering,Sem 7,77.2,9.8,94.3,85.3,95.1,3.62,3.63
+STU-1171,Marcus Chen,Mechanical Engineering,Sem 4,98.5,22.2,90.4,92.8,91.3,3.61,3.81
+STU-1172,Priya Kim,Mechanical Engineering,Sem 6,68.2,21.2,74.6,97.6,85.3,3.89,3.34
+STU-1173,Sophia Kim,Biotechnology,Sem 5,91.0,11.8,77.4,83.7,84.6,2.84,3.08
+STU-1174,Aarav Kim,Data Science & AI,Sem 8,77.0,17.4,76.1,75.7,75.5,2.25,2.81
+STU-1175,Priya Santos,Mechanical Engineering,Sem 1,68.2,11.0,63.6,57.7,67.2,2.42,2.02
+STU-1176,Aarav Kim,Electrical Engineering,Sem 1,90.1,24.9,87.7,96.7,83.2,3.4,3.55
+STU-1177,Priya Kowalski,Business Analytics,Sem 5,77.1,20.9,84.9,99.0,99.0,3.69,3.76
+STU-1178,Chloe Rodriguez,Mechanical Engineering,Sem 7,66.8,3.0,67.0,49.2,57.2,1.93,2.02
+STU-1179,Noah Chen,Business Analytics,Sem 3,89.0,13.8,74.4,66.8,65.0,2.45,2.59
+STU-1180,Devon Al-Mansoor,Electrical Engineering,Sem 6,77.3,11.0,56.8,68.4,68.6,2.06,2.25
+STU-1181,Marcus Al-Mansoor,Computer Science,Sem 2,74.4,13.6,89.7,71.6,83.5,2.89,3.14
+STU-1182,Lucas Vance,Computer Science,Sem 4,62.5,17.1,76.4,73.0,74.6,2.9,2.88
+STU-1183,Devon Vance,Mechanical Engineering,Sem 2,69.0,12.4,90.0,73.5,69.6,2.77,2.87
+STU-1184,Elena Kowalski,Data Science & AI,Sem 5,67.4,18.4,67.4,71.7,68.9,2.82,2.64
+STU-1185,Marcus Johansson,Computer Science,Sem 1,76.4,13.0,72.8,68.9,75.3,2.82,2.7
+STU-1186,Chen Rodriguez,Mechanical Engineering,Sem 7,91.9,22.4,94.2,99.0,99.0,3.56,3.79
+STU-1187,Aarav Rodriguez,Data Science & AI,Sem 1,91.7,19.1,87.3,84.5,84.6,3.39,3.36
+STU-1188,Aarav Sharma,Mechanical Engineering,Sem 4,60.4,12.4,72.1,63.4,72.6,2.4,2.5
+STU-1189,Devon Rodriguez,Mechanical Engineering,Sem 1,83.6,13.2,58.7,62.0,64.7,2.07,2.32
+STU-1190,Chloe Kim,Mechanical Engineering,Sem 1,89.8,24.3,73.1,92.2,90.6,3.48,3.31
+STU-1191,Zack Chen,Data Science & AI,Sem 4,82.6,21.8,92.5,90.1,88.8,3.33,3.36
+STU-1192,Aarav Patel,Electrical Engineering,Sem 6,65.6,11.5,81.5,64.6,67.1,2.56,2.66
+STU-1193,Devon Gupta,Computer Science,Sem 6,86.4,21.2,74.8,71.5,64.0,2.44,2.65
+STU-1194,Carlos Chen,Electrical Engineering,Sem 4,96.4,26.3,100.0,99.0,98.0,3.53,3.79
+STU-1195,Sophia Nguyen,Data Science & AI,Sem 7,74.0,14.5,65.4,54.5,62.4,2.75,2.25
+STU-1196,Sophia Kowalski,Business Analytics,Sem 5,99.5,22.2,94.3,99.0,96.6,4.0,3.96
+STU-1197,Sophia Johansson,Mechanical Engineering,Sem 8,84.6,19.5,83.5,99.0,96.6,3.3,3.57
+STU-1198,Marcus Kowalski,Biotechnology,Sem 1,95.3,21.9,91.9,77.8,87.6,3.27,3.2
+STU-1199,Chloe Santos,Mechanical Engineering,Sem 7,79.8,13.2,75.4,74.8,76.8,3.11,2.84
+STU-1200,Carlos Vance,Computer Science,Sem 1,83.7,17.7,71.0,75.0,76.2,2.72,2.68
+STU-1201,Liam Patel,Business Analytics,Sem 8,80.9,15.2,86.5,73.8,70.8,3.35,3.01
+STU-1202,Maya Patel,Data Science & AI,Sem 5,83.2,28.0,93.2,96.4,93.8,3.38,3.77
+STU-1203,Liam Gupta,Data Science & AI,Sem 6,72.7,9.6,78.3,76.5,85.7,2.39,2.89
+STU-1204,Lucas Chen,Computer Science,Sem 7,84.5,20.1,89.0,93.2,92.5,3.56,3.49
+STU-1205,Priya Chen,Mechanical Engineering,Sem 3,89.8,14.3,92.7,88.3,99.0,3.91,3.84
+STU-1206,Devon Patel,Mechanical Engineering,Sem 3,81.9,12.1,72.3,69.0,66.4,1.96,2.79
+STU-1207,Devon Patel,Data Science & AI,Sem 8,94.1,27.6,100.0,99.0,99.0,3.84,4.0
+STU-1208,Maya Gupta,Business Analytics,Sem 3,98.3,14.7,80.0,79.5,77.7,2.74,2.99
+STU-1209,Noah Johansson,Computer Science,Sem 6,86.3,17.0,94.4,99.0,99.0,3.47,3.82
+STU-1210,Noah Sharma,Data Science & AI,Sem 8,72.2,5.0,63.9,82.5,81.4,2.74,2.99
+STU-1211,Sophia Chen,Data Science & AI,Sem 6,64.7,9.1,71.1,51.3,60.3,2.29,2.14
+STU-1212,Maya Al-Mansoor,Computer Science,Sem 5,76.5,18.8,86.9,84.5,90.4,2.9,3.15
+STU-1213,Liam Kim,Mechanical Engineering,Sem 1,75.8,12.7,79.0,74.8,76.0,2.8,3.05
+STU-1214,Lucas Patel,Electrical Engineering,Sem 5,77.4,16.2,82.6,81.5,80.9,2.95,3.35
+STU-1215,Noah Sharma,Mechanical Engineering,Sem 5,85.7,19.4,83.5,76.4,69.7,3.33,3.01
+STU-1216,Yuki Chen,Computer Science,Sem 6,95.8,20.9,90.9,99.0,99.0,3.79,3.68
+STU-1217,Maya Patel,Data Science & AI,Sem 8,70.2,6.6,71.5,67.4,69.5,1.85,2.47
+STU-1218,Priya Johansson,Computer Science,Sem 8,67.6,5.6,58.4,69.8,66.0,1.85,2.1
+STU-1219,Liam Nguyen,Business Analytics,Sem 3,92.0,16.1,100.0,99.0,98.3,4.0,4.0
+STU-1220,Aarav Chen,Computer Science,Sem 2,98.4,22.4,92.2,88.5,89.4,3.79,3.47
+STU-1221,Devon Vance,Mechanical Engineering,Sem 1,69.6,18.0,92.2,77.9,81.0,3.77,3.56
+STU-1222,Chen Dubois,Biotechnology,Sem 6,85.6,18.4,78.9,75.4,73.8,3.08,3.17
+STU-1223,Yuki Kowalski,Mechanical Engineering,Sem 3,67.4,26.6,85.9,93.1,92.1,2.95,3.43
+STU-1224,Fatima Chen,Biotechnology,Sem 7,97.4,17.3,100.0,99.0,99.0,4.0,3.86
+STU-1225,Chloe Kim,Computer Science,Sem 2,99.5,30.1,100.0,99.0,95.4,3.92,3.99
+STU-1226,Elena Kowalski,Electrical Engineering,Sem 2,68.2,3.2,50.1,55.5,51.9,1.55,1.53
+STU-1227,Zack Vance,Mechanical Engineering,Sem 6,78.4,17.1,76.1,69.8,70.7,2.59,2.63
+STU-1228,Yuki Santos,Electrical Engineering,Sem 4,89.2,12.5,68.2,66.9,67.3,2.06,2.4
+STU-1229,Fatima Vance,Computer Science,Sem 1,91.3,24.2,89.3,99.0,95.4,4.0,4.0
+STU-1230,Fatima Patel,Computer Science,Sem 2,58.2,3.0,54.5,36.5,45.2,1.49,1.43
+STU-1231,Chloe Patel,Computer Science,Sem 6,89.2,16.9,82.0,83.0,74.4,2.92,3.03
+STU-1232,Chen Santos,Electrical Engineering,Sem 6,73.8,15.1,81.3,64.2,62.0,2.56,2.44
+STU-1233,Sophia Nguyen,Business Analytics,Sem 3,93.3,29.6,91.3,99.0,97.7,3.62,3.96
+STU-1234,Lucas Dubois,Electrical Engineering,Sem 7,91.2,20.3,91.7,99.0,93.8,3.63,3.7
+STU-1235,Zack Dubois,Computer Science,Sem 4,84.3,15.6,88.9,85.5,90.9,3.45,3.44
+STU-1236,Marcus Vance,Business Analytics,Sem 1,68.0,11.9,62.3,62.2,68.1,1.79,2.22
+STU-1237,Chen Kim,Data Science & AI,Sem 8,75.1,9.7,62.8,62.0,63.4,2.02,2.03
+STU-1238,Lucas Gupta,Data Science & AI,Sem 5,80.3,18.2,74.4,62.6,60.8,2.43,2.25
+STU-1239,Fatima Nguyen,Computer Science,Sem 7,53.0,9.3,72.3,55.2,65.6,2.14,2.22
+STU-1240,Chen Rodriguez,Electrical Engineering,Sem 7,90.0,23.0,87.8,92.5,92.1,3.53,3.54
+STU-1241,Lucas Rodriguez,Computer Science,Sem 3,58.3,10.2,65.6,51.6,48.4,2.0,1.86
+STU-1242,Aarav Kim,Mechanical Engineering,Sem 8,99.5,23.4,94.5,99.0,90.7,3.66,3.76
+STU-1243,Devon Gupta,Business Analytics,Sem 2,99.5,27.4,98.8,99.0,99.0,3.81,3.88
+STU-1244,Marcus Nguyen,Computer Science,Sem 2,75.3,11.0,80.3,61.0,73.5,2.54,2.83
+STU-1245,Yuki Gupta,Mechanical Engineering,Sem 3,86.9,15.6,82.9,78.4,67.2,3.04,3.04
+STU-1246,Elena Vance,Computer Science,Sem 6,86.3,17.9,84.9,80.9,75.3,2.99,3.07
+STU-1247,Devon Nguyen,Data Science & AI,Sem 2,88.6,21.7,90.5,98.7,99.0,3.99,3.87
+STU-1248,Yuki Kowalski,Mechanical Engineering,Sem 4,85.4,22.1,100.0,99.0,99.0,4.0,3.91
+STU-1249,Marcus Al-Mansoor,Data Science & AI,Sem 1,71.5,12.3,71.4,83.9,83.7,2.84,2.64
+STU-1250,Fatima Johansson,Electrical Engineering,Sem 7,84.9,14.3,81.9,82.9,82.3,3.05,3.18
+STU-1251,Sophia Dubois,Mechanical Engineering,Sem 7,75.5,14.0,64.7,72.2,73.2,2.12,2.66
+STU-1252,Fatima Kowalski,Mechanical Engineering,Sem 4,77.6,21.1,76.7,86.2,83.4,3.13,2.94
+STU-1253,Aarav Rodriguez,Electrical Engineering,Sem 8,86.7,12.4,73.7,80.1,76.0,3.11,3.0
+STU-1254,Fatima Kowalski,Mechanical Engineering,Sem 2,67.7,8.1,69.0,55.0,64.5,2.03,2.19
+STU-1255,Yuki Kowalski,Mechanical Engineering,Sem 7,68.3,16.5,79.2,78.8,79.9,3.22,3.08
+STU-1256,Carlos Gupta,Mechanical Engineering,Sem 5,85.0,14.5,76.3,75.5,79.0,2.52,2.88
+STU-1257,Liam Patel,Data Science & AI,Sem 8,81.9,6.5,64.6,68.8,68.3,2.93,2.67
+STU-1258,Chloe Sharma,Data Science & AI,Sem 1,54.4,10.9,63.4,50.0,51.6,1.83,1.91
+STU-1259,Maya Gupta,Business Analytics,Sem 1,76.7,13.9,72.9,79.2,85.4,2.97,3.18
+STU-1260,Maya Sharma,Mechanical Engineering,Sem 7,68.0,18.7,75.0,57.0,64.2,2.35,2.51
+STU-1261,Zack Rodriguez,Computer Science,Sem 3,86.8,14.6,67.6,72.6,69.3,2.38,2.44
+STU-1262,Sophia Johansson,Mechanical Engineering,Sem 8,90.1,23.1,88.5,90.7,96.4,3.5,3.5
+STU-1263,Devon Rodriguez,Data Science & AI,Sem 7,75.9,21.0,88.3,99.0,89.2,3.74,3.73
+STU-1264,Noah Chen,Biotechnology,Sem 3,76.4,6.3,63.5,61.8,73.5,2.24,2.35
+STU-1265,Zack Kim,Computer Science,Sem 7,74.9,25.5,86.0,93.5,90.4,3.56,3.51
+STU-1266,Priya Johansson,Computer Science,Sem 5,79.5,10.2,89.0,94.8,86.7,3.76,3.76
+STU-1267,Elena Gupta,Data Science & AI,Sem 8,91.6,27.7,97.9,99.0,99.0,3.73,3.89
+STU-1268,Fatima Chen,Mechanical Engineering,Sem 6,89.9,25.4,98.6,99.0,96.6,3.57,3.77
+STU-1269,Aarav Kim,Business Analytics,Sem 1,71.2,6.4,48.7,43.6,46.3,1.5,1.35
+STU-1270,Yuki Chen,Computer Science,Sem 7,99.3,23.0,84.9,96.0,96.3,4.0,3.99
+STU-1271,Maya Dubois,Business Analytics,Sem 5,83.7,21.1,93.0,99.0,99.0,3.85,3.84
+STU-1272,Zack Dubois,Computer Science,Sem 3,90.0,16.1,77.8,81.2,81.7,3.11,2.88
+STU-1273,Liam Dubois,Business Analytics,Sem 3,71.5,16.2,75.6,66.7,66.1,1.81,2.3
+STU-1274,Liam Nguyen,Computer Science,Sem 1,99.2,24.0,100.0,99.0,99.0,3.73,3.87
+STU-1275,Yuki Al-Mansoor,Computer Science,Sem 4,89.9,18.4,73.9,99.0,89.4,3.15,3.44
+STU-1276,Maya Sharma,Electrical Engineering,Sem 7,92.6,23.5,92.6,99.0,98.3,4.0,4.0
+STU-1277,Aarav Dubois,Biotechnology,Sem 8,96.8,21.4,94.0,92.2,99.0,4.0,3.88
+STU-1278,Fatima Patel,Business Analytics,Sem 2,89.8,20.1,85.9,98.2,98.3,3.72,3.74
+STU-1279,Yuki Vance,Mechanical Engineering,Sem 3,71.2,10.7,76.1,54.9,62.3,2.43,2.23
+STU-1280,Devon Kowalski,Biotechnology,Sem 8,89.0,15.1,78.4,94.8,93.6,3.84,3.56
+STU-1281,Devon Al-Mansoor,Computer Science,Sem 8,68.9,12.9,78.3,80.9,84.2,3.14,2.86
+STU-1282,Chloe Johansson,Biotechnology,Sem 6,77.3,15.7,70.1,75.4,68.4,3.21,2.98
+STU-1283,Liam Patel,Mechanical Engineering,Sem 8,72.9,20.6,82.7,76.2,78.4,3.04,3.11
+STU-1284,Devon Johansson,Electrical Engineering,Sem 8,99.5,24.7,91.6,99.0,99.0,3.85,3.98
+STU-1285,Zack Sharma,Business Analytics,Sem 6,74.2,17.2,73.7,73.6,79.7,2.45,2.69
+STU-1286,Sophia Johansson,Electrical Engineering,Sem 3,93.5,24.4,100.0,99.0,96.8,4.0,4.0
+STU-1287,Zack Chen,Mechanical Engineering,Sem 8,62.8,11.6,56.9,44.5,45.2,1.48,1.52
+STU-1288,Maya Dubois,Mechanical Engineering,Sem 4,83.2,22.7,87.2,99.0,92.3,3.45,3.55
+STU-1289,Devon Chen,Business Analytics,Sem 4,99.4,18.1,98.8,99.0,99.0,3.82,3.94
+STU-1290,Liam Kowalski,Computer Science,Sem 5,87.5,9.3,76.7,83.3,89.4,3.56,3.2
+STU-1291,Chen Johansson,Biotechnology,Sem 6,71.2,12.8,74.8,70.5,74.7,2.82,2.58
+STU-1292,Noah Gupta,Electrical Engineering,Sem 5,94.5,15.9,79.0,91.8,88.7,3.72,3.26
+STU-1293,Liam Patel,Computer Science,Sem 6,74.3,17.6,83.5,75.1,75.4,2.94,2.81
+STU-1294,Noah Rodriguez,Electrical Engineering,Sem 7,67.3,3.0,50.2,57.6,57.0,1.77,1.76
+STU-1295,Liam Gupta,Mechanical Engineering,Sem 7,74.5,11.4,74.6,65.3,64.0,2.42,2.43
+STU-1296,Devon Dubois,Electrical Engineering,Sem 8,87.4,21.6,76.0,86.2,73.5,2.57,2.83
+STU-1297,Fatima Sharma,Electrical Engineering,Sem 2,65.4,9.0,57.0,62.5,69.0,1.84,2.16
+STU-1298,Zack Rodriguez,Computer Science,Sem 7,72.2,12.4,72.4,82.0,74.1,3.2,3.07
+STU-1299,Aarav Sharma,Mechanical Engineering,Sem 2,72.3,10.8,70.8,50.8,55.2,1.94,2.17
+STU-1300,Zack Dubois,Biotechnology,Sem 7,67.1,11.4,77.7,77.0,80.5,2.88,2.83
+STU-1301,Fatima Kowalski,Data Science & AI,Sem 1,64.4,17.7,75.6,74.2,81.8,3.35,3.07
+STU-1302,Liam Rodriguez,Mechanical Engineering,Sem 7,83.5,19.7,73.9,99.0,92.8,3.05,3.22
+STU-1303,Elena Rodriguez,Data Science & AI,Sem 5,76.4,15.7,86.7,70.3,69.3,3.69,3.19
+STU-1304,Yuki Dubois,Mechanical Engineering,Sem 3,88.9,19.1,79.8,96.1,89.7,3.45,3.7
+STU-1305,Fatima Chen,Mechanical Engineering,Sem 8,91.5,26.1,87.8,90.6,86.4,3.63,3.38
+STU-1306,Fatima Patel,Mechanical Engineering,Sem 5,94.0,24.9,87.4,98.8,95.2,3.9,3.79
+STU-1307,Chloe Sharma,Computer Science,Sem 3,95.8,29.2,92.6,96.3,99.0,3.9,3.6
+STU-1308,Lucas Rodriguez,Electrical Engineering,Sem 4,89.9,22.0,94.3,99.0,84.9,3.42,3.7
+STU-1309,Devon Kim,Computer Science,Sem 5,99.5,25.6,100.0,99.0,97.2,4.0,3.91
+STU-1310,Devon Nguyen,Computer Science,Sem 4,82.7,16.7,86.4,71.3,73.4,2.74,2.78
+STU-1311,Elena Patel,Computer Science,Sem 2,99.5,22.2,100.0,99.0,93.0,3.98,3.81
+STU-1312,Maya Santos,Computer Science,Sem 2,85.3,20.2,79.9,94.1,92.8,3.78,3.42
+STU-1313,Priya Kim,Mechanical Engineering,Sem 1,81.4,18.6,77.9,83.0,74.4,2.7,2.85
+STU-1314,Maya Vance,Mechanical Engineering,Sem 7,75.1,10.6,71.9,62.0,58.5,2.4,2.19
+STU-1315,Marcus Gupta,Business Analytics,Sem 5,99.5,20.9,100.0,93.7,99.0,3.46,3.65
+STU-1316,Aarav Patel,Computer Science,Sem 4,91.4,24.8,90.1,89.9,97.5,4.0,3.77
+STU-1317,Lucas Chen,Business Analytics,Sem 3,85.9,14.2,90.6,89.8,89.7,3.2,3.39
+STU-1318,Carlos Sharma,Electrical Engineering,Sem 2,99.5,16.6,93.6,83.7,80.6,3.16,3.15
+STU-1319,Maya Chen,Data Science & AI,Sem 7,60.6,14.6,65.3,46.2,48.4,1.99,1.91
+STU-1320,Aarav Patel,Biotechnology,Sem 2,49.4,8.7,69.8,64.0,70.8,2.75,2.55
+STU-1321,Chloe Dubois,Biotechnology,Sem 3,95.0,20.0,93.5,99.0,97.9,4.0,3.98
+STU-1322,Carlos Gupta,Computer Science,Sem 7,76.9,8.6,72.8,71.0,71.0,2.7,2.81
+STU-1323,Lucas Johansson,Data Science & AI,Sem 7,94.6,23.2,88.0,90.7,91.5,4.0,3.83
+STU-1324,Maya Vance,Biotechnology,Sem 4,71.9,9.7,69.0,46.6,53.1,2.38,1.89
+STU-1325,Lucas Chen,Electrical Engineering,Sem 4,92.3,31.7,99.2,99.0,99.0,3.78,3.74
+STU-1326,Elena Chen,Computer Science,Sem 5,64.1,11.7,65.9,49.6,50.7,1.79,1.93
+STU-1327,Zack Patel,Business Analytics,Sem 5,73.8,5.8,57.6,57.6,53.3,1.43,1.86
+STU-1328,Fatima Kim,Business Analytics,Sem 6,98.5,20.4,100.0,80.5,79.4,3.67,3.2
+STU-1329,Lucas Dubois,Electrical Engineering,Sem 8,42.0,9.8,47.8,47.2,44.7,1.46,1.52
+STU-1330,Fatima Dubois,Business Analytics,Sem 6,85.1,17.6,84.8,78.3,74.8,2.91,3.16
+STU-1331,Noah Vance,Business Analytics,Sem 1,80.6,13.4,80.5,64.8,70.6,2.19,2.53
+STU-1332,Marcus Al-Mansoor,Computer Science,Sem 2,72.5,12.4,72.1,63.9,66.5,2.41,2.66
+STU-1333,Zack Rodriguez,Computer Science,Sem 5,73.7,12.9,75.1,69.6,65.9,2.69,2.46
+STU-1334,Fatima Sharma,Electrical Engineering,Sem 4,79.9,12.7,65.7,73.8,74.3,2.89,2.63
+STU-1335,Elena Johansson,Biotechnology,Sem 3,99.5,23.4,93.4,99.0,99.0,4.0,3.93
+STU-1336,Carlos Johansson,Data Science & AI,Sem 4,82.6,28.5,100.0,99.0,99.0,3.94,3.91
+STU-1337,Chloe Rodriguez,Mechanical Engineering,Sem 2,67.6,11.0,65.3,69.4,55.5,1.74,2.05
+STU-1338,Chen Sharma,Electrical Engineering,Sem 6,81.7,13.8,76.7,88.5,94.9,3.35,3.53
+STU-1339,Lucas Al-Mansoor,Mechanical Engineering,Sem 4,73.4,8.0,58.8,56.6,61.0,1.69,1.97
+STU-1340,Priya Dubois,Electrical Engineering,Sem 8,91.0,19.9,90.6,99.0,99.0,4.0,3.95
+STU-1341,Liam Al-Mansoor,Business Analytics,Sem 1,85.7,20.9,80.4,85.8,89.6,2.86,3.13
+STU-1342,Chloe Chen,Mechanical Engineering,Sem 2,82.0,17.1,66.6,75.6,79.4,2.44,2.62
+STU-1343,Aarav Chen,Mechanical Engineering,Sem 6,78.7,18.4,76.6,76.4,77.5,3.0,3.05
+STU-1344,Devon Rodriguez,Data Science & AI,Sem 8,78.2,20.3,69.2,90.0,82.4,2.77,3.19
+STU-1345,Elena Patel,Mechanical Engineering,Sem 3,63.6,4.7,53.0,63.2,62.0,2.07,2.06
+STU-1346,Zack Kim,Data Science & AI,Sem 6,99.5,25.3,87.3,99.0,91.9,3.71,3.74
+STU-1347,Zack Sharma,Data Science & AI,Sem 7,70.2,15.1,64.5,57.0,61.4,2.32,2.02
+STU-1348,Maya Patel,Mechanical Engineering,Sem 8,77.2,9.5,74.0,68.6,57.1,2.27,2.47
+STU-1349,Zack Johansson,Computer Science,Sem 8,78.0,14.4,82.1,62.3,68.5,2.3,2.62
+STU-1350,Zack Al-Mansoor,Computer Science,Sem 1,82.5,14.0,100.0,99.0,99.0,3.82,3.91
